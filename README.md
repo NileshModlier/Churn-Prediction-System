@@ -121,3 +121,4 @@ docker.io/nileshmodlier/churn-system
 ---
 ## 📝 License
 MIT
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
